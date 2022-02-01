@@ -1,0 +1,13 @@
+# Default ignoring
+*
+
+# Track .gitignore
+!.gitignore
+
+# Track required project files
+!*.md
+!*.webp
+!/*.txt
+
+# Track file types mentioned above in subdirectories
+!*/
