@@ -23,4 +23,4 @@ _A blacklist of websites copying or translating other coding related websites li
 
 Contributions via [pull requests](https://github.com/ThrRip/fake-programming-knowledge-blacklist/pulls) are always welcomed.
 
-> Make sure you didn't delete any exist lines in the list before [creating a pull request](https://github.com/ThrRip/fake-programming-knowledge-blacklist/pulls/compare) (including dead websites).
+> Make sure you didn't delete any exist lines in the list before [creating a pull request](https://github.com/ThrRip/fake-programming-knowledge-blacklist/compare) (including dead websites).
