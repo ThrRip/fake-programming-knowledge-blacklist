@@ -23,4 +23,4 @@ _复制或翻译其他编程相关网站（例如 Stack Exchange、Stack Overflo
 
 随时欢迎通过[拉取请求](https://github.com/ThrRip/fake-programming-knowledge-blacklist/pulls)进行的贡献。
 
-> 确保您在[创建拉去请求](https://github.com/ThrRip/fake-programming-knowledge-blacklist/pulls/compare)前没有删除列表中的任何一行（包括已无法访问的网站）。
+> 确保您在[创建拉取请求](https://github.com/ThrRip/fake-programming-knowledge-blacklist/pulls/compare)前没有删除列表中的任何一行（包括已无法访问的网站）。
