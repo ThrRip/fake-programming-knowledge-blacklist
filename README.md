@@ -1,5 +1,7 @@
 # Fake Programming Knowledge Blacklist
 
+English | [简体中文](https://github.com/ThrRip/fake-programming-knowledge-blacklist/blob/master/README_zh-CN.md)
+
 _A blacklist of websites copying or translating other coding related websites like Stack Exchange, Stack Overflow, etc._
 
 ---
