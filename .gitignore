@@ -5,6 +5,7 @@
 !.gitignore
 
 # Track required project files
+!LICENSE
 !*.md
 !*.webp
 !/*.txt
