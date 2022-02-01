@@ -1,6 +1,6 @@
 # Fake Programming Knowledge Blacklist
 
-[English](https://github.com/ThrRip/fake-programming-knowledge-blacklist/blob/master/README) | 简体中文 | [Gitee 镜像](https://gitee.com/ThrRip/fake-programming-knowledge-blacklist)
+[English](https://github.com/ThrRip/fake-programming-knowledge-blacklist/blob/master/README.md) | 简体中文 | [Gitee 镜像](https://gitee.com/ThrRip/fake-programming-knowledge-blacklist)
 
 _复制或翻译其他编程相关网站（例如 Stack Exchange、Stack Overflow 等）的网站的黑名单。_
 
