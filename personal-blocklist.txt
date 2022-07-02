@@ -12,7 +12,9 @@ it.wenda123.org
 itranslater.com
 its201.com
 its401.com
+jike.in
 linux.cn
+mlink.in
 mlog.club
 qastack.cn
 stackoom.com
